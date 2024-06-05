@@ -6,8 +6,10 @@ manifest:
     path: ncs-playground
 
   remotes:
-    - name: makerdiary
-      url-base: https://github.com/makerdiary
+    # - name: makerdiary
+    #   url-base: https://github.com/makerdiary
+    - name: nativeit-dev
+      url-base: https://github.com/nativeit-dev
     - name: zephyrproject-rtos
       url-base: https://github.com/zephyrproject-rtos
     - name: nrfconnect
